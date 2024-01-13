@@ -75,11 +75,11 @@ Here are the character classes :
 
 | Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Position                              |
 | :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
-|   1   |    Ngo Quang Hải  | ITDSIU20085 |          1       |           https://github.com/yenthehaiquang      |          Leader                                                    |
-|   2   |     Nguyen Hoang Viet | ITDSIU20056 |          1         | [OliverRed1602](https://github.com/OliverRed1602)           |         Member                                                     |
-|   3   |    Dao Trong Khoa    | ITDSIU20103 |       1                |       [Vu0907](https://github.com/Vu0907)         |         Member                                                     |
-|   4   | Nguyen DUC Quoc Anh | ITITIU20004 |             1     |       [Nerfer1501](https://github.com/Nerfer1501)               |          Member                                                    |
-|   5   | Nguyen DUC Quoc Anh | ITITIU20004 |             1     |       [Nerfer1501](https://github.com/Nerfer1501)               |          Member                                                    |
+|   1   |    Ngo Quang Hai  | ITDSIU20085 |          yenthehaiquang2004@gmail.com       |           https://github.com/yenthehaiquang      |          Member                                                    |
+|   2   |     Nguyen Hoang Viet | ITDSIU20056 |          hoangviet032002@gmail.com         | https://github.com/OliverRed1602           |         Leader                                                     |
+|   3   |    Dao Trong Khoa    | ITDSIU20103 |       daotrongkhoa1612@gmail.com                |       NO         |         Member                                                     |
+|   4   | Nguyen Duc Quoc Anh | ITITIU20004 |             Quocanhnguyenduc13102002@gmail.com     |       NO               |          Member                                                    |
+|   5   | Pham Nhat Tan | ITITIU20004 |             phamnhattan120898@gmail.com     |       NO               |          Member                                                    |
 
    
 # About us:
