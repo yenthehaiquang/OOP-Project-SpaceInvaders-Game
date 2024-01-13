@@ -73,15 +73,12 @@ Here are the character classes :
 # Members:
 
 
-| Index |         Name          |     ID      |                              Position                              |
-| :---: | :-------------------: | :---------: | :----------------------------------------------------------------: |
-
-
-|   1   |     Ngo Quang Hai     | ITCSIU22276 |          Member                                                    |
-|   2   |    Nguyen Hoang Viet  | ITITIU20351 |         Leader                                                     |
-|   3   |    Đao Trong Khoa     | ITITIU19145 |         Member                                                     |
-|   4   | Nguyen Đuc Quoc Anh   | ITITWE20018 |          Member                                                    |
-|   5   | Tan Pham              | ITITWE20018 |          Member                                                    |
+| Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Position                              |
+| :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
+|   1   |    1  | ITDSIU20085 |          1       |           [ducthinh17](https://github.com/ducthinh17)       |          Leader                                                    |
+|   2   |     2 | ITDSIU20056 |          1         | [OliverRed1602](https://github.com/OliverRed1602)           |         Member                                                     |
+|   3   |    3    | ITDSIU20103 |       1                |       [Vu0907](https://github.com/Vu0907)         |         Member                                                     |
+|   4   | 4 | ITITIU20004 |             1     |       [Nerfer1501](https://github.com/Nerfer1501)               |          Member                                                    |
 
    
 # About us:
