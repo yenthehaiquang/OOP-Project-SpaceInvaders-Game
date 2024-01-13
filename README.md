@@ -79,6 +79,7 @@ Here are the character classes :
 |   2   |     Nguyen Hoang Viet | ITDSIU20056 |          1         | [OliverRed1602](https://github.com/OliverRed1602)           |         Member                                                     |
 |   3   |    Dao Trong Khoa    | ITDSIU20103 |       1                |       [Vu0907](https://github.com/Vu0907)         |         Member                                                     |
 |   4   | Nguyen DUC Quoc Anh | ITITIU20004 |             1     |       [Nerfer1501](https://github.com/Nerfer1501)               |          Member                                                    |
+|   5   | Nguyen DUC Quoc Anh | ITITIU20004 |             1     |       [Nerfer1501](https://github.com/Nerfer1501)               |          Member                                                    |
 
    
 # About us:
