@@ -69,7 +69,21 @@ Here are the character classes :
 |Aliens | 18 | Stable | Mid | 1 hit/alien |
 
 
-  
+ 
+# Members:
+
+
+| Index |         Name          |     ID      |                              Position                              |
+| :---: | :-------------------: | :---------: | :----------------------------------------------------------------: |
+
+
+|   1   |     Ngo Quang Hai | ITCSIU22276 |          Member                                                    |
+|   2   |    Nguyen Hoang Viet  | ITITIU20351 |         Leader                                                     |
+|   3   |    Đao Trong Khoa    | ITITIU19145 |         Member                                                     |
+|   4   | Nguyen Đuc Quoc Anh | ITITWE20018 |          Member                                                    |
+|   5   | Tan Pham | ITITWE20018 |          Member                                                    |
+
+   
 # About us:
 
 - 🗣 All of my projects are available at [https://github.com/yenthehaiquang/OOP-Project-SpaceInvaders-Game](https://github.com/yenthehaiquang/OOP-Project-SpaceInvaders-Game)
