@@ -77,11 +77,11 @@ Here are the character classes :
 | :---: | :-------------------: | :---------: | :----------------------------------------------------------------: |
 
 
-|   1   |     Ngo Quang Hai | ITCSIU22276 |          Member                                                    |
+|   1   |     Ngo Quang Hai     | ITCSIU22276 |          Member                                                    |
 |   2   |    Nguyen Hoang Viet  | ITITIU20351 |         Leader                                                     |
-|   3   |    Đao Trong Khoa    | ITITIU19145 |         Member                                                     |
-|   4   | Nguyen Đuc Quoc Anh | ITITWE20018 |          Member                                                    |
-|   5   | Tan Pham | ITITWE20018 |          Member                                                    |
+|   3   |    Đao Trong Khoa     | ITITIU19145 |         Member                                                     |
+|   4   | Nguyen Đuc Quoc Anh   | ITITWE20018 |          Member                                                    |
+|   5   | Tan Pham              | ITITWE20018 |          Member                                                    |
 
    
 # About us:
